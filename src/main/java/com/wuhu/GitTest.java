@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("hello wuhugit3");
         System.out.println("hello wuhugit4");
         System.out.println("master");
-        System.out.println("push test");
+        System.out.println("push test412132324");
     }
 }
