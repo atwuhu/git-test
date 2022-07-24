@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hello wuhugit4");
         System.out.println("master");
         System.out.println("push test412132324");
+        System.out.println("test1 test412132324");
+
     }
 }
